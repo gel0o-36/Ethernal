@@ -101,4 +101,5 @@ function openCamera() {
   const cameraModal = document.getElementById('cameraModal');
   cameraModal.style.visibility = 'visible';
   cameraModal.style.display = 'flex'; // Show the camera modal
+  
 }
